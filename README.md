@@ -34,8 +34,9 @@ Once downloaded the replication package it is reccomended to organize your files
 
 1. Download all files from "Replication_Package" and refer to above file structure if interested. It is important to download my fixed .py files and .R files in this repo over the ones provided in the original replication package as the originals contain outdated numpy functions.
 ### IMPORTANT: "X_word_count.npz" and "gendered_posts.csv" were too large to be placed into "Replication_Package" and as a result will need to be downloaded from the original package: https://www.openicpsr.org/openicpsr/project/114486/version/V1/view
-   
-3. Run .py files anyway you see fit. This can be done within the terminal but I reccomend downloading Jupyterlab and viewing these files in a notebook.
-4. The .py files may take up to 30 minutes to completely run and after completion the .txt files will be saved in the parent directory of the .py files
-5. Run the .R file. I reccomend running this file in RStudio making sure that in this IDE your working directory is set to "data" (or whichever folder contains the files shown above).
-6. The .pdf files of the figures/tables will be saved in the parent directory once you have ran the .R file. This concludes the replication of the original paper.
+
+
+2. Run .py files anyway you see fit. This can be done within the terminal but I reccomend downloading Jupyterlab and viewing these files in a notebook.
+3. The .py files may take up to 30 minutes to completely run and after completion the .txt files will be saved in the parent directory of the .py files
+4. Run the .R file. I reccomend running this file in RStudio making sure that in this IDE your working directory is set to "data" (or whichever folder contains the files shown above).
+5. The .pdf files of the figures/tables will be saved in the parent directory once you have ran the .R file. This concludes the replication of the original paper.
