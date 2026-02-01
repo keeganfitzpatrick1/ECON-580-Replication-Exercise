@@ -6,7 +6,7 @@
 Please download the replication package and organize your local directory as follows:
 ```
 .
-├── Replication Directory    # You creae this
+├── Replication Directory    # You create this
     ├── data
     │   ├── gendered_posts.csv           # Main dataset of forum posts
     │   ├── keys_to_X.csv                # Keys to word count matrix
@@ -29,3 +29,5 @@ Please download the replication package and organize your local directory as fol
 ```
 
 ## Instructions
+
+1. 
