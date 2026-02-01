@@ -1,9 +1,11 @@
 
 # Replication Package for Wu (2018)
 
+Below are directions to replicate my replication of Wu 2018.
+
 ## Reccomended File Structure
 
-Please download the replication package and organize your local directory as follows:
+Once downloaded the replication package it is reccomended to organize your files as follows:
 ```
 .
 ├── Replication Directory    # You create this
@@ -30,4 +32,8 @@ Please download the replication package and organize your local directory as fol
 
 ## Instructions
 
-1. 
+1. Download all files from "Replication Package" (NOT "original replication package") and refer to above file structure if interested.
+2. Run .py files anyway you see fit. This can be done within the terminal but I reccomend downloading Jupyterlab and viewing these files in a notebook.
+3. The .py files may take up to 30 minutes to completely run and after completion the .txt files will be saved in the parent directory of the .py files
+4. Run the .R file. I reccomend running this file in RStudio making sure that in this IDE your working directory is set to "data" (or whichever folder contains the files shown above).
+5. The .pdf files of the figures/tables will be saved in the parent directory once you have ran the .R file. This concludes the replication of the original paper.
